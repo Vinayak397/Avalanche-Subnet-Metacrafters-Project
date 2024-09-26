@@ -1,4 +1,4 @@
-**Project Overview: Building a DeFi Kingdom Clone on Avalanche**
+# Project Overview: Building a DeFi Kingdom Clone on Avalanche
 
 Welcome to a hands-on adventure in blockchain-based gaming. We’re developing a DeFi Kingdom clone on the Avalanche network, where players collect, build, and battle with digital assets, earning rewards through engaging gameplay.
 
